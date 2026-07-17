@@ -30,6 +30,11 @@
       "name": "OwlsMines",
       "desc": "Крутой плагин на шахты \nБезопасность : чисто \nОценка : 7/10",
       "url": "https://drive.google.com/file/d/14RPzQqQwnXMKgCyGp3_6nsB09u9boME4/view?usp=sharing"
+    },
+    {
+      "name": "OwlsAntiBots",
+      "desc": "Плагин анти боты от OwlsStudio",
+      "url": "https://drive.google.com/file/d/1FlMV1GMWNqv0jSABTAmLMAXaZfiz_PrN/view?usp=sharing"
     }
   ],
   "builds": []
