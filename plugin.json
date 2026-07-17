@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    {
+      "name": "ElemCheck-2.1",
+      "desc": "Плагин на проверки с широким функционалом: вызов на проверку, баны за читы/игнор, крашер, точки телепортации",
+      "url": "https://drive.google.com/file/d/1TRZS1J3Pk4UjGenTf8rYwCjUQV4Axeju/view?usp=sharing"
+    },
+    {
+      "name": "TulenChunkLoader",
+      "desc": "Прогрузка чанков с базой данных прогруженных чанков и 4 режимами скорости",
+      "url": "https://drive.google.com/file/d/1JYg-U-A0zjiWeniP5IoTGbhDPb7hlmz1/view?usp=sharing"
+    },
+    {
+      "name": "DelyTraps",
+      "desc": "Многофункциональный плагин на трапки со схематиками, эффектами и способностями",
+      "url": "https://drive.google.com/file/d/1ZKgAKx9cCao9fEhxADvd2A6SZ2yNR7CO/view?usp=sharing"
+    },
+    {
+      "name": "bReward",
+      "desc": "Плагин на бесплатные награды. Чист, хак удалён",
+      "url": "https://drive.google.com/file/d/1pY0OdQpWS8SUK_acV3G7BaKfLSR8SlUY/view?usp=sharing"
+    }
+  ],
+  "builds": []
+}
